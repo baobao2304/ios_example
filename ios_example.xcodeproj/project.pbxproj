@@ -16,6 +16,7 @@
 		CDBA116D2CDF664F0075B8E9 /* ios_exampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBA116C2CDF664F0075B8E9 /* ios_exampleTests.swift */; };
 		CDBA11772CDF664F0075B8E9 /* ios_exampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBA11762CDF664F0075B8E9 /* ios_exampleUITests.swift */; };
 		CDBA11792CDF664F0075B8E9 /* ios_exampleUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBA11782CDF664F0075B8E9 /* ios_exampleUITestsLaunchTests.swift */; };
+		CDBA11862CE0A58C0075B8E9 /* spaceshipfly.wav in Resources */ = {isa = PBXBuildFile; fileRef = CDBA11852CE0A58C0075B8E9 /* spaceshipfly.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		CDBA11722CDF664F0075B8E9 /* ios_exampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ios_exampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CDBA11762CDF664F0075B8E9 /* ios_exampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ios_exampleUITests.swift; sourceTree = "<group>"; };
 		CDBA11782CDF664F0075B8E9 /* ios_exampleUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ios_exampleUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		CDBA11852CE0A58C0075B8E9 /* spaceshipfly.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = spaceshipfly.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		CDBA11542CDF664E0075B8E9 /* ios_example */ = {
 			isa = PBXGroup;
 			children = (
+				CDBA11852CE0A58C0075B8E9 /* spaceshipfly.wav */,
 				CDBA11552CDF664E0075B8E9 /* AppDelegate.swift */,
 				CDBA11572CDF664E0075B8E9 /* SceneDelegate.swift */,
 				CDBA11592CDF664E0075B8E9 /* ViewController.swift */,
@@ -234,6 +237,7 @@
 				CDBA115F2CDF664F0075B8E9 /* Assets.xcassets in Resources */,
 				CDBA11622CDF664F0075B8E9 /* Base in Resources */,
 				CDBA115D2CDF664E0075B8E9 /* Base in Resources */,
+				CDBA11862CE0A58C0075B8E9 /* spaceshipfly.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
